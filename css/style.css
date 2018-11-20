@@ -1,0 +1,40 @@
+@media all and (min-width: 480px) and (max-width: 767px){
+
+
+
+header {
+  border: 2px solid black;
+  height: 75px;
+  width: 476px;
+  
+}
+
+aside {
+  border: 2px solid black;
+  height: 150px;
+  width: 476px;
+  float: left;
+}
+
+section {
+  border: 2px solid black;
+  height: 125px;
+  width: 476px;
+  float: left;
+
+}
+
+article {
+  border: 2px solid black;
+  height: 250px;
+  width: 236px;
+  float: left;
+}
+
+footer {
+  border: 2px solid black;
+  height: 80px;
+  width: 476px;
+  float: left;
+}
+}
